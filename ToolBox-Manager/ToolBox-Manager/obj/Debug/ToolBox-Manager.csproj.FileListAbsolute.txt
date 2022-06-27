@@ -1,0 +1,10 @@
+C:\Users\alika\source\repos\ToolBox-Manager\ToolBox-Manager\bin\Debug\ToolBox-Manager.exe.config
+C:\Users\alika\source\repos\ToolBox-Manager\ToolBox-Manager\bin\Debug\ToolBox-Manager.exe
+C:\Users\alika\source\repos\ToolBox-Manager\ToolBox-Manager\bin\Debug\ToolBox-Manager.pdb
+C:\Users\alika\source\repos\ToolBox-Manager\ToolBox-Manager\obj\Debug\ToolBox-Manager.csproj.AssemblyReference.cache
+C:\Users\alika\source\repos\ToolBox-Manager\ToolBox-Manager\obj\Debug\ToolBox_Manager.Form1.resources
+C:\Users\alika\source\repos\ToolBox-Manager\ToolBox-Manager\obj\Debug\ToolBox_Manager.Properties.Resources.resources
+C:\Users\alika\source\repos\ToolBox-Manager\ToolBox-Manager\obj\Debug\ToolBox-Manager.csproj.GenerateResource.cache
+C:\Users\alika\source\repos\ToolBox-Manager\ToolBox-Manager\obj\Debug\ToolBox-Manager.csproj.CoreCompileInputs.cache
+C:\Users\alika\source\repos\ToolBox-Manager\ToolBox-Manager\obj\Debug\ToolBox-Manager.exe
+C:\Users\alika\source\repos\ToolBox-Manager\ToolBox-Manager\obj\Debug\ToolBox-Manager.pdb
